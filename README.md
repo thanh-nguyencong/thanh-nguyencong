@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanh-nguyencong
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning VueJS, Dagger, GCP
+- 🌱 I’m currently learning Svelte, Dagger, GCP
 - 📫 You can reach me by my email, which is thanhnguyencong492@gmail.com
 
 <!---
